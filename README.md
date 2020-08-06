@@ -1,2 +1,3 @@
 # pandas_exercise
-This is some of the exercises from https://github.com/guipsamora/pandas_exercises.
+This includes some of the exercises from https://github.com/guipsamora/pandas_exercises.
+Another exercise is from the AppliedAI optional assignments.
